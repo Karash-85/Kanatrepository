@@ -1,0 +1,13 @@
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.exe
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.deps.json
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.runtimeconfig.json
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.runtimeconfig.dev.json
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.dll
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\bin\Debug\netcoreapp3.1\Kanat_console.pdb
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.csprojAssemblyReference.cache
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.csproj.CoreCompileInputs.cache
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.AssemblyInfoInputs.cache
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.AssemblyInfo.cs
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.dll
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.pdb
+C:\Users\Кана\source\repos\Kanat_console\Kanat_console\obj\Debug\netcoreapp3.1\Kanat_console.genruntimeconfig.cache
